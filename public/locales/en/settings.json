@@ -1,0 +1,20 @@
+{
+  "settings": "Settings",
+  "usage": "",
+  "model": "Model:",
+  "key": "Key:",
+  "gpt4-notice": "To use GPT-4 API, you must provide the OpenAI key with right access",
+  "invalid-key": "key is invalid, please ensure that you have set up billing in your OpenAI account",
+  "advanced-settings": "Advanced Settings",
+  "temp": "Temp:",
+  "temp-tips": "Higher values will make the output more random, while lower values make the output more focused and deterministic.",
+  "loop": "Loop #:",
+  "loop-tips": "Controls the maximum number of loops that the agent will run (higher value will make more API calls).",
+  "api-key-notice": "",
+  "tokens-tips": "Controls the maximum number of tokens used in each API call (higher value will make responses more detailed but cost more).",
+  "tokens": "Tokens: ",
+  "guest-key": "Guest Key: ",
+  "endPoint": "Endpoint: ",
+  "mode": "Mode: ",
+  "mode-tips": "Automatic Mode (Default): Agent automatically executes every task. \n\nPause Mode: Agent pauses after every set of task(s)"
+}
